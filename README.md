@@ -19,20 +19,24 @@ TBD
 
 ## Table of contents
 
-- [Characteristics](#characteristics)
-- [App Screenshot](#app-screenshot)
-- [Tech-stack](#tech-stack)
-	- [Tech-stack](#tech-stack)
-	- [Jetpack](#jetpack)
-	- [Tests](#tests)
-	- [Static code Analyse](#static-code-analyse)
-- [Architecture](#architecture)
-	- [What this project does not cover?](#what-this-project-does-not-cover)
-	- [Getting started](#getting-started)
-	- [Android Studio](#android-studio)
-	- [Projects](#projects)
-- [Author](#author)
-- [License](#license)
+- [TBD](#tbd)
+  - [Description](#description)
+  - [Table of contents](#table-of-contents)
+  - [Characteristics](#characteristics)
+  - [App Screenshot](#app-screenshot)
+  - [Tech-stack](#tech-stack)
+    - [Tech-stack](#tech-stack-1)
+    - [Jetpack](#jetpack)
+    - [Tests](#tests)
+    - [Static code Analyse](#static-code-analyse)
+  - [Architecture](#architecture)
+  - [What this project does not cover?](#what-this-project-does-not-cover)
+  - [Getting started](#getting-started)
+    - [Android Studio](#android-studio)
+    - [Command-line](#command-line)
+    - [Projects](#projects)
+  - [Author](#author)
+  - [License](#license)
 
 
 ## Characteristics
@@ -155,7 +159,7 @@ Other high-quality projects will help you to find solutions that work for your p
 
 ## License
 ```
-Copyright (c) 2020  Thiago Lopes da Silva
+Copyright (c) 2022  Thiago Lopes da Silva
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
